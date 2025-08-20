@@ -30,3 +30,52 @@
 2. 平台串接、文案產生(串接個平台帳號API)
 3. 審核機制(需思考評斷標準)
 後續專案會獨立一包，把工具寫在裡面，複製一份到外面就好
+
+
+## todo
+1. 確認是否下面的雲端服務可否滿足需求
+2. 紀錄要達成自己期望的目標需要額外設定哪些參數
+
+
+
+## 開源模型&雲端服務
+Claude/GPT-4 (故事) →
+Suno AI (音樂) →
+Midjourney (圖像) →
+RunwayML (分鏡)
+
+
+雲端服務：
+
+OpenAI GPT-4 - 創意寫作能力頂尖
+Claude 3.5 Sonnet - 故事結構和文學性表現優秀
+Google Gemini Pro - 多語言創意寫作支援好
+
+雲端服務：
+
+Suno AI - 專業的AI音樂生成平台
+Udio - 高品質音樂創作AI
+AIVA - 古典和現代音樂創作
+Soundraw - 商用音樂生成
+
+開源模型：
+
+Stable Diffusion XL - 最受歡迎的開源圖像生成模型
+FLUX.1 - 新興的高品質開源模型
+DeepFloyd IF - 高解析度圖像生成
+Kandinsky - 俄羅斯開發的多語言支援模型
+雲端服務：
+
+DALL-E 3 (OpenAI) - 文字理解能力最強
+Midjourney - 藝術風格和美學表現優秀
+Adobe Firefly - 商用授權清晰
+Leonardo AI - 遊戲和插畫風格佳
+
+
+
+雲端服務：
+
+RunwayML - 專業的視頻和分鏡創作工具
+Storyboard That - 專門的分鏡稿製作平台
+Boords - 線上分鏡稿協作工具
+GPT-4 + DALL-E 3 組合 - 分析故事後生成分鏡圖
